@@ -13,7 +13,6 @@
                         <button class=" btn ">Buy now</button>
                     </div>
                 </div>
-
             </div>
         @endforeach
     </div>
